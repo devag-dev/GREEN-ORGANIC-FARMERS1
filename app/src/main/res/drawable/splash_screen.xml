@@ -5,6 +5,6 @@
 
     <item
         android:gravity="center"
-        android:drawable="@drawable/farm_logo" />
+        android:drawable="@drawable/green_organic_logo" />
 
 </layer-list>
