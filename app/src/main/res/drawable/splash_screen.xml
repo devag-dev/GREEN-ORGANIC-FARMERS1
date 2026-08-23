@@ -1,4 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="#F4FBF3" />
-    <item android:gravity="center" android:drawable="@drawable/green_organic_logo" />
+
+    <!-- Green Organic Farmers background -->
+    <item android:drawable="@color/splash_background" />
+
+    <!-- Logo -->
+    <item
+        android:gravity="center"
+        android:drawable="@drawable/farm_logo" />
+
 </layer-list>
